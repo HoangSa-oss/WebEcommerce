@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\SpringWeb\spring-boot-ecommerce1"/>
+			<item value="D:\SpringWeb\spring-boot-ecommerce2"/>
+			<item value="D:\SpringWeb\spring-boot-ecommerce - Copy"/>
+			<item value="E:\LAMWEB~1\NSTH-F~1.BOO\NSTH-F~1.BOO\2351D5~1.ECO\25-CHE~1\25-CHE~1\02-BAC~1\SPRING~1"/>
+			<item value="D:\Myprofile21\Downloads\EshopSpring\EshopSpring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

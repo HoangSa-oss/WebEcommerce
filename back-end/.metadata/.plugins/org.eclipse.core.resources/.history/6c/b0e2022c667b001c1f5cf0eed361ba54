@@ -1,0 +1,5 @@
+package com.hoangsa.web.config;
+
+public class MyDataRestConfig {
+
+}

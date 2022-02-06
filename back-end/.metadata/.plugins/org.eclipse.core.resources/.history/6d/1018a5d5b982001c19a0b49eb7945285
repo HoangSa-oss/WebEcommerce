@@ -1,0 +1,5 @@
+package com.hoangsa.web.dto;
+
+public class Purchase {
+
+}

@@ -1,0 +1,33 @@
+package com.hoangsa.web.service;
+
+import javax.transaction.Transactional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.hoangsa.web.dao.CustomerRepository;
+import com.hoangsa.web.dto.Purchase;
+import com.hoangsa.web.dto.PurchaseRespone;
+import com.hoangsa.web.entity.Order;
+@Service
+public class CheckoutServiceImpl implements CheckoutService{
+	private CustomerRepository customerRepository;
+	@Autowired
+	public CheckoutServiceImpl(CustomerRepository customerRepository) {
+		this.customerRepository = customerRepository;
+	}
+	
+	@Override
+	@Transactional
+	public PurchaseRespone placeOrder(Purchase purchase) {
+		Order order = purchase.getOrder();
+		String orderTrackingNumber = generateOrderTrackingNumber();
+		return null;
+	}
+
+	private String generateOrderTrackingNumber() {
+		
+		return null;
+	}
+
+}

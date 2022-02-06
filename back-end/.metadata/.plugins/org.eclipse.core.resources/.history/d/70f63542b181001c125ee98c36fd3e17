@@ -1,0 +1,9 @@
+package com.hoangsa.web.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.hoangsa.web.entity.Country;
+
+public interface CountryRepository extends JpaRepository<Country, Integer> {
+
+}

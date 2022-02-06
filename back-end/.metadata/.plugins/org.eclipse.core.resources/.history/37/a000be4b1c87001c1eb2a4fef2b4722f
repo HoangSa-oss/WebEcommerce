@@ -1,0 +1,12 @@
+package com.hoangsa.web.service;
+
+
+import org.springframework.data.rest.core.annotation.RepositoryRestResource;
+
+import com.hoangsa.web.dto.Purchase;
+import com.hoangsa.web.dto.PurchaseResponse;
+@RepositoryRestResource
+public interface CheckoutService {
+
+    PurchaseResponse placeOrder(Purchase purchase);
+}

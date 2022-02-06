@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-rest=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mysql=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=spring-boot-ecommerce
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.6.3
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Web Ecommerce
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.hoangsa
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=spring-boot-ecommerce
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.hoangsa.web
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
